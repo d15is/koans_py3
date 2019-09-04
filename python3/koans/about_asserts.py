@@ -76,3 +76,5 @@ class AboutAsserts(Koan):
         #
         #   https://github.com/gregmalcolm/python_koans/wiki/Class-Attribute
 
+        #ne comment for init commit
+
